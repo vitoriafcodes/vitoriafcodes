@@ -9,7 +9,7 @@
 <img align="right" height="155" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tsanNzYmtueHdlNGI5YWt2NWkyb3hoMHVsOGMyb283OTR3MDBqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M1PNQUmHRXVThM8xZp/giphy.gif"  />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriafcodes&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitoriafcodes&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
