@@ -27,3 +27,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/vitoriafcodes/vitoriafcodes/output/snake.svg" alt="Snake animation" />
+
+###
