@@ -7,12 +7,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriafcodes&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="left">
   <a href="https://www.instagram.com/vitoriaf.codes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=020304&logoColor=10f6f9&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
